@@ -5,9 +5,8 @@ Welcome to my personal website repository! This site serves as my digital home, 
 ## About
 
 This website is designed to:
+
 - Share my professional journey and experiences
 - Showcase my portfolio of projects
 - Provide ways to connect with me
 - Share my thoughts and insights
-
-## Contact
